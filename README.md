@@ -5,7 +5,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<!-- <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> -->
 
 - 🌱 I'm currently learning **Flutter and MongoDB.**
 
@@ -31,7 +31,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<div align="center">
+<div align="center" height="500">
   
   ### 💭 Quote of the Day
   
