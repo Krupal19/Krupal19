@@ -9,7 +9,7 @@ Experienced in web development, responsive design, AI-assisted workflows, graphi
 </p>
 
 <h3>
-  <a href="https://drive.google.com/file/d/1qoefqxOUyqYQA8XMw3gxd-SO_la0T4yt/view" target="blank">
+  <a href="https://drive.google.com/file/d/1XjnYAYbzkwR5krkQRtvKg3CejZow8Qtm/view?usp=sharing" target="blank">
     Download My Resume
   </a>
 </h3>
