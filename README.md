@@ -41,7 +41,7 @@ Experienced in web development, responsive design, AI-assisted workflows, graphi
 <h3 align="left">💼 Portfolio & Contact</h3>
   <p align="left">
     <ul>
-      <li><b>Portfolio </b>: <a href="https://krupal-portfolio.vercel.app/" target="blank"> https://krupal-portfolio.vercel.app/ </a></li>
+      <li><b>Portfolio </b>: <a href="https://krupal-sanchaniya.runs-on.dev/" target="blank"> https://krupal-sanchaniya.runs-on.dev/ </a></li>
       <!-- <li><b>Contact Form </b>: </li> -->
       <li><b>Email </b>: <a href="mailto:krupal19sanchaniya@gmail.com" target="blank">krupal19sanchaniya@gmail.com</a></li>
       <li><b>Linkedin </b>: <a href="www.linkedin.com/in/krupal-sanchaniya" target="blank">Krupal Sanchaniya</a></li>  
