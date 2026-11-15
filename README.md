@@ -44,16 +44,16 @@ Experienced in web development, responsive design, AI-assisted workflows, graphi
       <li><b>Portfolio </b>: <a href="https://krupal-sanchaniya.runs-on.dev/" target="blank"> https://krupal-sanchaniya.runs-on.dev/ </a></li>
       <!-- <li><b>Contact Form </b>: </li> -->
       <li><b>Email </b>: <a href="mailto:krupal19sanchaniya@gmail.com" target="blank">krupal19sanchaniya@gmail.com</a></li>
-      <li><b>Linkedin </b>: <a href="www.linkedin.com/in/krupal-sanchaniya" target="blank">Krupal Sanchaniya</a></li>  
+      <!-- <li><b>Linkedin </b>: <a href="www.linkedin.com/in/krupal-sanchaniya" target="blank">Krupal Sanchaniya</a></li>   -->
       <!-- <li><b>Phone no. </b>: Figma, Canva</li> -->
       <!-- <li><b>WhatsApp:</b> ChatGPT, Gemini, AI Integration</li> -->
     </ul>
   </p>
 
 
----
+<!-- --- -->
 
-<h3 align="left">🌐 Projects Overview</h3>
+<!-- <h3 align="left">🌐 Projects Overview</h3> -->
 
 ---
 
